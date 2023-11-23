@@ -1,0 +1,16 @@
+form{
+    display: inline-table;
+ }
+ 
+ input:invalid{
+    border: 2px solid rgb(207, 28, 28);
+ }
+
+ 
+ input:valid{
+    border: 2px solid rgb(27, 13, 13);
+ }
+ 
+ span{
+    color: red;
+ }
